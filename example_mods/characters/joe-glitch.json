@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				232,
+				53
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				202,
+				-25
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				198,
+				320
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				137,
+				67
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				77
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "glitch joe idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joeGLITCH",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "joe-glitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		238
+	],
+	"camera_position": [
+		-160,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

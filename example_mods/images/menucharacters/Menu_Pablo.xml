@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Joe.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="joemenu0000" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0001" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0002" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0003" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0004" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0005" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0006" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0007" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0008" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0009" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0010" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0011" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0012" x="58" y="58" width="342" height="569"/>
+	<SubTexture name="joemenu0013" x="58" y="58" width="342" height="569"/>
+</TextureAtlas>

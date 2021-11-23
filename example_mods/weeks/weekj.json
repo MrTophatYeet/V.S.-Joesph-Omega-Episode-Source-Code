@@ -1,0 +1,57 @@
+{
+	"storyName": "joesph omega episode",
+	"hideFreeplay": false,
+	"weekBackground": "joebg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"joe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"comedic value",
+			"joe",
+			[
+				140,
+				255,
+				238
+			]
+		],
+		[
+			"pathetic",
+			"joe-angry",
+			[
+				140,
+				255,
+				238
+			]
+		],
+		[
+			"what are you doing",
+			"joe-insane",
+			[
+				140,
+				255,
+				238
+			]
+		],
+		[
+			"hellhole",
+			"joesph",
+			[
+				155,
+				40,
+				40
+			]
+		]
+	],
+	"weekName": "joe week"
+}

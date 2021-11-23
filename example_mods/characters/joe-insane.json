@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				-121
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				187,
+				65
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				-48
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-23
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Joe idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-28
+			],
+			"anim": "transform",
+			"fps": 24,
+			"name": "Joe transform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joe_insane",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joe-insane",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		238
+	],
+	"camera_position": [
+		-100,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

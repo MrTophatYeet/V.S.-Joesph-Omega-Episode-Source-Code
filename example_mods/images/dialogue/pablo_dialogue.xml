@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pablo_dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pablo TALK instance 10000" x="58" y="58" width="564" height="541" frameX="-20" frameY="0" frameWidth="585" frameHeight="541"/>
+	<SubTexture name="pablo TALK instance 10001" x="707" y="58" width="564" height="534" frameX="-2" frameY="-7" frameWidth="585" frameHeight="541"/>
+	<SubTexture name="pablo TALK instance 10002" x="1356" y="58" width="564" height="533" frameX="0" frameY="-8" frameWidth="585" frameHeight="541"/>
+	<SubTexture name="pablo TALK instance 10003" x="58" y="684" width="564" height="533" frameX="-1" frameY="-8" frameWidth="585" frameHeight="541"/>
+	<SubTexture name="pablo TALK instance 10004" x="707" y="684" width="564" height="541" frameX="-19" frameY="0" frameWidth="585" frameHeight="541"/>
+	<SubTexture name="pablo TALK instance 10005" x="1356" y="684" width="563" height="541" frameX="-22" frameY="0" frameWidth="585" frameHeight="541"/>
+	<SubTexture name="pablo TALK instance 10006" x="58" y="58" width="564" height="541" frameX="-20" frameY="0" frameWidth="585" frameHeight="541"/>
+</TextureAtlas>

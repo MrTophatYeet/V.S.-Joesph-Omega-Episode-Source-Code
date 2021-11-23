@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "i win",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "dumbass",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "talk",
+			"text": "joe mama so fat",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "WHAT THE FUCK",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "stare",
+			"text": "you can't say that fucking midget",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "angry",
+			"text": "i'm gonna kill you now!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "talk",
+			"text": "ok",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

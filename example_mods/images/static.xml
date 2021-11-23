@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="static.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Static0000" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0001" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0002" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0003" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0004" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0005" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0006" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0007" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0008" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0009" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0010" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0011" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0012" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0013" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0014" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0015" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0016" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0017" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0018" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0019" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0020" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0021" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0022" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0023" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0024" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0025" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0026" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0027" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0028" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0029" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0030" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0031" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0032" x="58" y="58" width="2415" height="1265" frameX="-54" frameY="0" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0033" x="2558" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0034" x="5057" y="58" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+	<SubTexture name="Static0035" x="58" y="1408" width="2414" height="1265" frameX="0" frameY="-7" frameWidth="2469" frameHeight="1272"/>
+</TextureAtlas>

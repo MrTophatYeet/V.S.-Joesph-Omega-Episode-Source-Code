@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		-80
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "joedialogue",
+			"idle_name": "joedialogue"
+		}
+	],
+	"image": "joe_dialogue"
+}

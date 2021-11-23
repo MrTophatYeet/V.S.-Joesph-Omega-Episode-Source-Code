@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "coolswag",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "insane",
+			"text": "HFGOPIWHJEFPORIEHWOPRI*U@)$\"(*#@$\")(*#@)\"$(#*)$@#)$*#)@$(*RHFKWLJHEFKLJSDHLKFJHSDKLJHLEIFUYHEWIOU$ROIWEURWIEHRFIWUEHIFUHWEIFUHWEIFUHWIFDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "talk",
+			"text": "are you okay",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "insane",
+			"text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "shocked",
+			"text": "oh no he said '     ' i am so scared",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "pathetic for some murderer",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "insane",
+			"text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "talk",
+			"text": "ok 3rd song- wait why is it foggy out of\\nnowhere",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I think the blue bean is doing something..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "YOUR MOM.............................................................................................................................................",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "joesph"
+		},
+		{
+			"expression": "shocked",
+			"text": "wtf",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

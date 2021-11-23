@@ -1,0 +1,63 @@
+{
+	"position": [
+		80,
+		-80
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "joesph_dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				9
+			],
+			"loop_offsets": [
+				0,
+				10
+			],
+			"anim": "talk",
+			"idle_name": "Joe talk0000",
+			"loop_name": "Joe talk"
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				10
+			],
+			"idle_name": "angry0000",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				10
+			]
+		},
+		{
+			"loop_name": "STARE",
+			"idle_offsets": [
+				-11,
+				53
+			],
+			"idle_name": "STARE0000",
+			"anim": "stare",
+			"loop_offsets": [
+				-11,
+				53
+			]
+		},
+		{
+			"loop_name": "insaneSpeak",
+			"idle_offsets": [
+				10,
+				-30
+			],
+			"idle_name": "insaneSpeak",
+			"anim": "insane",
+			"loop_offsets": [
+				10,
+				-30
+			]
+		}
+	]
+}

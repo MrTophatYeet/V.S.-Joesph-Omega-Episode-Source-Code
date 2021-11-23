@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi chur"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OH THERE YOU ARE FUCKING STUPIDASS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do you wanna rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you sure this guy's not friends with\\nwho we even fought in this same place?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IDK"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen here you little dumbass motherfucker fatherfucker action figure among us looking shitface and asshole"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "joe mama so fat"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT UP BOYFRIEND YOU ARE A FUCKING CHILD YOU LITTLE FUCKING RAT YOU DONT JUST DISS MY FRIEND LIKE THAT YOU PIECE OF FUCKING SHIT IM GONNA STEAL ALL YOUR BONES, SHATTER THEM THEN FUCKING PUT THEM BACK IN YOU ANNOYING LITTLE PIECE OF FUCKING GARBAGE GO DIE IN A FUCKING FIRE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

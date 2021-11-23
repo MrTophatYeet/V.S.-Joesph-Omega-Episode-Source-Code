@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i win win win win i win me winner victory\\nsuccess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i fucking hate you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok and"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT THE FUCK UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend let's just get out of-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you're not going ANYWHERE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok noob"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SHUT FUCK UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey goggle where shel at"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "joggle: k"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pablo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tf does THAT even MEAN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk let's just move on noob"
+		}
+	]
+}

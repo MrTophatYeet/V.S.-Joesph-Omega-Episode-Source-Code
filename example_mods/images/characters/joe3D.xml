@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joe3D.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="3d joe idle instance 10000" x="58" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10001" x="665" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10002" x="1272" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10003" x="1879" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10004" x="2486" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10005" x="3093" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10006" x="3700" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10007" x="4307" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10008" x="4914" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10009" x="5521" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10010" x="6128" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10011" x="6735" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10012" x="7342" y="58" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10013" x="58" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10014" x="665" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10015" x="1272" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10016" x="1879" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10017" x="2486" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10018" x="3093" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10019" x="3700" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10020" x="4307" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10021" x="4914" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10022" x="5521" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10023" x="6128" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10024" x="6735" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10025" x="7342" y="1077" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10026" x="58" y="2096" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10027" x="665" y="2096" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10028" x="1272" y="2096" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10029" x="1879" y="2096" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10030" x="2486" y="2096" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10031" x="3093" y="2096" width="522" height="934"/>
+	<SubTexture name="3d joe idle instance 10032" x="58" y="58" width="522" height="934"/>
+</TextureAtlas>

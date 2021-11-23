@@ -1,0 +1,39 @@
+{
+	"storyName": "pablo what are you doing in here",
+	"hideFreeplay": true,
+	"weekBackground": "joebg",
+	"weekBefore": "weekj",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Pablo",
+			"pablo",
+			[
+				75,
+				80,
+				140
+			]
+		],
+		[
+			"Gun",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"pablo",
+		"bf",
+		"gf"
+	],
+	"weekName": "Pablo Week"
+}

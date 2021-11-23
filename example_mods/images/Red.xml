@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Red.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Thing0000" x="58" y="58" width="2239" height="1247"/>
+	<SubTexture name="Thing0001" x="2382" y="58" width="2239" height="1247"/>
+	<SubTexture name="Thing0002" x="4706" y="58" width="2239" height="1247"/>
+	<SubTexture name="Thing0003" x="58" y="1390" width="2239" height="1247"/>
+	<SubTexture name="Thing0004" x="2382" y="1390" width="2239" height="1247"/>
+	<SubTexture name="Thing0005" x="4706" y="1390" width="2239" height="1247"/>
+	<SubTexture name="Thing0006" x="58" y="2722" width="2239" height="1247"/>
+	<SubTexture name="Thing0007" x="2382" y="2722" width="2239" height="1247"/>
+	<SubTexture name="Thing0008" x="4706" y="2722" width="2239" height="1247"/>
+	<SubTexture name="Thing0009" x="58" y="4054" width="2239" height="1247"/>
+	<SubTexture name="Thing0010" x="2382" y="4054" width="2239" height="1247"/>
+	<SubTexture name="Thing0011" x="4706" y="4054" width="2239" height="1247"/>
+	<SubTexture name="Thing0012" x="58" y="5386" width="2239" height="1247"/>
+	<SubTexture name="Thing0013" x="2382" y="5386" width="2239" height="1247"/>
+	<SubTexture name="Thing0014" x="4706" y="5386" width="2239" height="1247"/>
+	<SubTexture name="Thing0015" x="58" y="6718" width="2239" height="1247"/>
+	<SubTexture name="Thing0016" x="2382" y="6718" width="2239" height="1247"/>
+	<SubTexture name="Thing0017" x="4706" y="6718" width="2239" height="1247"/>
+	<SubTexture name="Thing0018" x="58" y="58" width="2239" height="1247"/>
+</TextureAtlas>

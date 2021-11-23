@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pablo idle"
+		},
+		{
+			"offsets": [
+				153,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pablo left"
+		},
+		{
+			"offsets": [
+				130,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pablo right"
+		},
+		{
+			"offsets": [
+				128,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pablo up"
+		},
+		{
+			"offsets": [
+				142,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pablo down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pablo_gun",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "pablo",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		69,
+		134
+	],
+	"camera_position": [
+		-100,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
